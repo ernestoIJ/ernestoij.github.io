@@ -4,11 +4,11 @@ collection: teaching
 type: "AI/ML Engineer Intern"
 permalink: # /teaching/2014-spring-teaching-1
 venue: "September 2024 - December 2024"
-date: #2014-01-01
+date: 2014-01-01
 location: "Remote"
 ---
 
-<!-- This is a description of a teaching experience. You can use markdown like any other post. -->
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Developed a Selenium-based web scraping tool, expanding the companies dataset by 2x for future machine learning applications.
 ======
