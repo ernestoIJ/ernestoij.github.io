@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ASU Capstone Management Platform"
+excerpt: "Collaborated with a team of 6 students and a faculty member to develop and deploy a CS/CSE Capstone platform used by 400+ students, 5 + sponsors, and faculty to manage project proposals, seminar submissions, and student assignments. <br/><img src='/images/capstone_homepage.png'>"
 collection: portfolio
 ---
 
