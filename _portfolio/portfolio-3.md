@@ -15,3 +15,5 @@ Collaborated with a partner to engineer an **AI-driven Rock-Paper-Scissors robot
 
 ### Presentation
 [View the full presentation on Google Slides](https://docs.google.com/presentation/d/183zougUu1o3fSZLRUlkprbhu35HpOPr0kDezPrryTww/edit?usp=sharing)
+
+![Robotic Hand Demo](/images/robotic_hand.png)
