@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ### Overview
-Developed a **GPT-style Large Language Model (LLM)** entirely from scratch to understand and reproduce the architecture and training process of modern transformer-based language models. The project included implementing both the tokenizer and the model using only core PyTorch and Python libraries.
+Developed a **GPT-style Large Language Model (LLM)** entirely from scratch to understand and reproduce the architecture and training process of modern transformer-based language models. The project included implementing both the tokenizer and the model using only core PyTorch and Python libraries. The code to this project can be found [here.](https://github.com/ernestoIJ/LLM-From-Scratchm)
 
 ### Technical Highlights
 - Implemented a **custom Byte Pair Encoding (BPE) tokenizer** supporting vocabulary sizes up to **4K**, reducing token count by **~35%** compared to raw character encoding.  

@@ -11,7 +11,6 @@ Collaborated with a partner to engineer an **AI-driven Rock-Paper-Scissors robot
 - Developed a **real-time gesture recognition pipeline** using Python, OpenCV, and MediaPipe, achieving **~90% gesture detection accuracy**.  
 - Implemented and compared **three predictive models** — Conditional Probability, Markov Model, and Q-Learning — with the **Markov model improving win rate from 33% to over 50% after ~50 rounds**.  
 - Integrated predictions with an **Arduino-controlled robotic hand**, enabling physical responses **within 1 second** of user input across **200+ interactive rounds**.  
-- Designed end-to-end system architecture covering perception (vision), prediction (AI), and actuation (robotics).
 
 ### Presentation
 [View the full presentation on Google Slides](https://docs.google.com/presentation/d/183zougUu1o3fSZLRUlkprbhu35HpOPr0kDezPrryTww/edit?usp=sharing)
