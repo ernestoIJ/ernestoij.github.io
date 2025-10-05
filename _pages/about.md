@@ -17,3 +17,4 @@ redirect_from:
 # Selected Experience
 
 ## 👨🏽‍💼 Professional Experience
+I interned at Rubitection Inc., where I built data pipelines and developed a PyTorch-based image classification model that achieved over 95% accuracy. I also contributed to a Flask + AWS SageMaker integration for deploying ML models, gaining hands-on experience with cloud-based AI systems and computer vision applications.
