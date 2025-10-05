@@ -4,4 +4,12 @@ excerpt: "Implemented a custom Byte Pair Encoding (BPE) tokenizer and built a Tr
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Overview
+Developed a **GPT-style Large Language Model (LLM)** entirely from scratch to understand and reproduce the architecture and training process of modern transformer-based language models. The project included implementing both the tokenizer and the model using only core PyTorch and Python libraries.
+
+### Technical Highlights
+- Implemented a **custom Byte Pair Encoding (BPE) tokenizer** supporting vocabulary sizes up to **4K**, reducing token count by **~35%** compared to raw character encoding.  
+- Built and trained a **Transformer-based LLM** from scratch in PyTorch, replicating the **core architecture of GPT models**.  
+- Designed a **custom training and sampling pipeline**, achieving **stable convergence** (validation loss reduced from **15.5 to 9.4**) and coherent text generation on **CPU/MPS hardware**.
+
+![MiniGPT Model Demo](/images/miniGPT.png)
