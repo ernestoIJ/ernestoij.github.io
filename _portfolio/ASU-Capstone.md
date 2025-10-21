@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ### Overview
-Developed and deployed a **full-stack web platform** for ASU’s CS/CSE Capstone program to automate the project proposal, student matching, and seminar management processes. The platform replaced manual workflows previously handled through spreadsheets and email, significantly improving efficiency and scalability for faculty and students.
+Developed and deployed a **full-stack web platform** for ASU’s CS/CSE Capstone program to automate the project proposal, student matching, and seminar management processes. The platform replaced manual workflows previously handled through spreadsheets and email, significantly improving efficiency and scalability for faculty and students. The link to this project can be found [here.](https://asucapstone.com/). You could even check me out in the [About Us page!](https://asucapstone.com/about) 
 
 ### Technical Highlights
 - Collaborated with a **team of 6 students and a faculty mentor** to design and implement the system using **Next.js, MySQL, Docker, Node.js, and TypeScript**.  
