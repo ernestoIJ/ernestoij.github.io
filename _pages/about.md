@@ -10,7 +10,7 @@ redirect_from:
 
 ![Illustration of things I find amazing](/images/idk_but_looks_cool.png){: .align-right width="300px"}
 
-👨🏽‍💻 I’m in my final semester of my undergraduate degree in Computer Science at Arizona State University. I’ll begin my graduate studies in Spring 2026, pursuing a Master’s in Robotics and Autonomous Systems (AI) at ASU.
+👨🏽‍💻 I’m in my final semester of my undergraduate degree in Computer Science at Arizona State University. I’ll begin my graduate studies in Fall 2026, pursuing a Master’s in Robotics and Autonomous Systems (AI) at ASU.
 
 🤖🔬 My research interests lie in reinforcement learning and algorithmic optimization, with a focus on applications in robotics.
 
