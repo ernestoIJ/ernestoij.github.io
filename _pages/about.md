@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of things I find amazing](/images/idk_but_looks_cool.png){: .align-right width="300px"}
+![Just Wondering](/images/snoopyThinking.jpeg){: .align-right style="width: 300px; border-radius: 50px;"}
 
-👨🏽‍💻 I’m in my final semester of my undergraduate degree in Computer Science at Arizona State University. I’ll begin my graduate studies in Fall 2026, pursuing a Master’s in Robotics and Autonomous Systems (AI) at ASU.
+👨🏽‍💻 I am currently pursuing a Master’s in Robotics and Autonomous Systems (AI) at Arizona State University, focusing on High-Performance Computing and AI.
 
-🤖🔬 My research interests lie in reinforcement learning and algorithmic optimization, with a focus on applications in robotics.
+📚 I believe the next breakthrough in AI won't just come from better algorithms, but from more efficient hardware-software integration. I enjoy the challenge of reaching "metal-level" performance by optimizing the underlying kernels in C++ and CUDA to squeeze every bit of throughput out of modern silicon.
 
 # Selected Experience
 
