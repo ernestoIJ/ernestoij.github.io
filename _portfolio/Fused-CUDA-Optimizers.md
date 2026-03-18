@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ### Overview
-Developed highly optimized, **bare-metal CUDA C++ implementations** of the industry-standard AdamW and the 2023 Google Brain Lion optimizers. Native machine learning frameworks often suffer from massive CPU kernel launch bottlenecks and global memory latency during deep neural network training. This project eliminates those hardware inefficiencies by utilizing custom memory management and fused execution kernels to squeeze absolute maximum throughput out of modern GPU silicon. You can view the full C++ architecture and benchmarks in the GitHub repository [here]([https://github.com/ernestoIJ/fused-cuda-optimizers]).
+Developed highly optimized, **bare-metal CUDA C++ implementations** of the industry-standard AdamW and the 2023 Google Brain Lion optimizers. Native machine learning frameworks often suffer from massive CPU kernel launch bottlenecks and global memory latency during deep neural network training. This project eliminates those hardware inefficiencies by utilizing custom memory management and fused execution kernels to squeeze absolute maximum throughput out of modern GPU silicon. You can view the full C++ architecture and benchmarks in the GitHub repository [here.](https://github.com/ernestoIJ/fused-cuda-optimizers).
 
 ### Technical Highlights
 - **Architected an $O(1)$ Arena Allocator** using custom C++ pointer arithmetic to replace fragmented $O(N)$ `cudaMalloc` loops, allocating massive contiguous memory blocks to completely eliminate CPU-to-GPU driver overhead regardless of network depth.
