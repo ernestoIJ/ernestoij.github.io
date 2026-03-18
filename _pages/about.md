@@ -12,7 +12,7 @@ redirect_from:
 
 👨🏽‍💻 I am currently pursuing a Master’s in Robotics and Autonomous Systems (AI) at Arizona State University, focusing on High-Performance Computing and AI.
 
-📚 I believe the next breakthrough in AI won't just come from better algorithms, but from more efficient hardware-software integration. I enjoy the challenge of reaching "metal-level" performance by optimizing the underlying kernels in C++ and CUDA to squeeze every bit of throughput out of modern silicon.
+📚 I love making code run fast. I've recently been diving into optimizing kernels, writing bare-metal C++ and CUDA to figure out how to bypass bottlenecks and squeeze every last drop of performance out of modern GPUs.
 
 # Selected Experience
 
